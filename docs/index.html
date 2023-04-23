@@ -8,7 +8,7 @@
     <script>
       const path = sessionStorage.getItem('path')
       console.log(path)
-      if (path && path === '/react-from-meta-lang/root') {
+      if (path && path === '/pricone/root') {
         sessionStorage.removeItem('path')
         window.history.replaceState(null, null, './root')
       }
