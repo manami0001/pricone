@@ -5,6 +5,14 @@
     <link rel="icon" href="/pricone/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>プリコネツール</title>
+    <script>
+      const path = sessionStorage.getItem('path')
+      console.log(path)
+      if (path && path === '/react-from-meta-lang/other') {
+        sessionStorage.removeItem('path')
+        window.history.replaceState(null, null, './other')
+      }
+    </script>
     <script type="module" crossorigin src="/pricone/assets/index-ad2779b3.js"></script>
     <link rel="stylesheet" href="/pricone/assets/index-d42749a1.css">
   </head>
