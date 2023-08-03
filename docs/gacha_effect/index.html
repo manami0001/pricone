@@ -19,7 +19,10 @@
       .input_wrap {
         margin: 1rem auto;
         text-align: left;
-        width: 70vw;
+        width: max-content;
+      }
+      .input_wrap > div {
+        margin: 0.5rem;
       }
       input {
         padding: 0.3rem 0.7rem;
@@ -30,10 +33,10 @@
         justify-content: center;
         align-items: center;
         margin: 1rem auto;
-        max-width: 70vw;
         max-height: 70vh;
         aspect-ratio: 1200/552;
         background-image: url(bg.png);
+        background-repeat: no-repeat;
         background-size: contain;
         border: 1px solid #000;
         border-radius: 1rem;
@@ -49,17 +52,19 @@
   <body>
     <div id="app">
       <div class="input_wrap">
-        <label>文字列：<input type="text" v-model="message" /></label>
-      </div>
-      <div class="input_wrap">
-        <label
-          >サイズ：<input
-            type="number"
-            v-model="font_size"
-            max="100"
-            min="10"
-            step="10"
-        /></label>
+        <div>
+          <label>文字列：<input type="text" v-model="message" /></label>
+        </div>
+        <div>
+          <label
+            >サイズ：<input
+              type="number"
+              v-model="font_size"
+              max="100"
+              min="10"
+              step="10"
+          /></label>
+        </div>
       </div>
       <div class="box">
         <span class="message" :style="`font-size:${font_size}px`"
