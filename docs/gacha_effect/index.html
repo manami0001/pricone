@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css?family=Noto+Serif+JP:400,700&display=swap&subset=japanese"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        font-family: "Noto Serif JP";
+        font-size: large;
+      }
+      #app {
+        text-align: center;
+      }
+      .input_wrap {
+        margin: 1rem auto;
+        text-align: left;
+        width: 70vw;
+      }
+      input {
+        padding: 0.3rem 0.7rem;
+        border-radius: 0.3rem;
+      }
+      .box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 1rem auto;
+        max-width: 70vw;
+        max-height: 70vh;
+        aspect-ratio: 1200/552;
+        background-image: url(bg.png);
+        background-size: contain;
+        border: 1px solid #000;
+        border-radius: 1rem;
+      }
+      .message {
+        font-weight: 1000;
+        background: linear-gradient(180deg, #ff636b, #fcadbe);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <div class="input_wrap">
+        <label>文字列：<input type="text" v-model="message" /></label>
+      </div>
+      <div class="input_wrap">
+        <label
+          >サイズ：<input
+            type="number"
+            v-model="font_size"
+            max="100"
+            min="10"
+            step="10"
+        /></label>
+      </div>
+      <div class="box">
+        <span class="message" :style="`font-size:${font_size}px`"
+          >{{message}}</span
+        >
+      </div>
+    </div>
+    <script>
+      const { createApp } = Vue;
+      createApp({
+        data() {
+          return {
+            message: "ここですか、お祭りの会場は？",
+            font_size: 30,
+          };
+        },
+      }).mount("#app");
+    </script>
+  </body>
+</html>
