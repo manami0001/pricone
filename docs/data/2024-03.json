@@ -1,0 +1,91 @@
+{
+  "year": 2024,
+  "month": 3,
+  "bosses": [
+    { "num": 1, "hp": 54000 },
+    { "num": 2, "hp": 56000 },
+    { "num": 3, "hp": 60000 },
+    { "num": 4, "hp": 62000 },
+    { "num": 5, "hp": 64000 }
+  ],
+  "teams": [
+    {
+      "boss": 1,
+      "damage": 14000,
+      "meoshi": 0,
+      "url": "https://discord.com/channels/883641935175233646/888411637185388585/1221851175071252541",
+      "chars": [
+        { "name": "ワイマツリ", "star": 3 },
+        { "name": "プリヒヨリ", "star": 5 },
+        { "name": "ハロトモ", "star": 5 },
+        { "name": "クリス", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "boss": 2,
+      "damage": 17000,
+      "meoshi": "多",
+      "url": "https://www.youtube.com/watch?v=oqkdVra5Y7Y",
+      "chars": [
+        { "name": "水クウカ", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "水レイ", "star": 5 },
+        { "name": "水ミミ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "boss": 3,
+      "damage": 10800,
+      "url": "https://www.youtube.com/watch?v=HlelkXt5i2Q",
+      "meoshi": 2,
+      "chars": [
+        { "name": "クリジュン", "star": 3 },
+        { "name": "リベムイミ", "star": 5 },
+        { "name": "ジータ", "star": 5 },
+        { "name": "リベノゾ", "star": 5 },
+        { "name": "ステクルミ", "star": 5 }
+      ]
+    },
+    {
+      "boss": 4,
+      "damage": 11500,
+      "meoshi": "多",
+      "url": "https://www.youtube.com/watch?v=4_GYg5_HXIc",
+      "chars": [
+        { "name": "サラルカ", "star": 3 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "水レイ", "star": 5 },
+        { "name": "水ノゾ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "boss": 5,
+      "damage": 13000,
+      "meoshi": "多",
+      "url": "https://www.youtube.com/watch?v=Gf4YpePv4fw",
+      "chars": [
+        { "name": "マジータ", "star": 5 },
+        { "name": "ヴァンピィ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "ランファ", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "boss": 5,
+      "damage": 13000,
+      "meoshi": "多",
+      "url": "https://www.youtube.com/watch?v=dSBM3aJ6Rz8",
+      "chars": [
+        { "name": "マジータ", "star": 5 },
+        { "name": "ヴァンピィ", "star": 5 },
+        { "name": "ホマレ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    }
+  ]
+}
