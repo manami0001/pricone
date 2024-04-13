@@ -55,10 +55,23 @@
       "url": "https://www.youtube.com/watch?v=4_GYg5_HXIc",
       "chars": [
         { "name": "サラルカ", "star": 3 },
+        { "name": "ウィンタークロエ", "star": 5 },
         { "name": "クリアヤネ", "star": 5 },
         { "name": "水レイ", "star": 5 },
-        { "name": "水ノゾミ", "star": 5 },
         { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "boss": 4,
+      "damage": 10900,
+      "meoshi": "多",
+      "url": "https://www.youtube.com/watch?v=PikKRNXXVv0",
+      "chars": [
+        { "name": "水ネネカ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "アスユイ", "star": 5 },
+        { "name": "エリス", "star": 5 },
+        { "name": "正月ハツネ", "star": 5 }
       ]
     },
     {
