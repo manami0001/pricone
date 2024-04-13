@@ -7,9 +7,11 @@
     <title>まなみ</title>
     <script>
       const path = sessionStorage.getItem("path");
-      if (path && path === "/pricone/root") {
+      const targetPathRegex = /\/pricone\/(.*)/;
+      if (path && targetPathRegex.test(path)) {
         sessionStorage.removeItem("path");
-        window.history.replaceState(null, null, "./root");
+        const targetPath = path.match(targetPathRegex)[1];
+        window.history.replaceState(null, null, targetPath);
       }
     </script>
     <script type="module" crossorigin src="/pricone/assets/index-L8uSPAsV.js"></script>
