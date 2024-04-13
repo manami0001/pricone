@@ -1,1 +1,0 @@
-import{_ as s,f as c,o,r as t}from"./index-L8uSPAsV.js";const a={};function r(n,_){const e=t("el-tabs");return o(),c(e,{type:"card",class:"char-tabs"})}const l=s(a,[["render",r]]);export{l as default};
