@@ -1,1 +1,0 @@
-import{_ as s,e as c,o,r as t}from"./index-CPpi0rQ4.js";const a={};function r(n,_){const e=t("el-tabs");return o(),c(e,{type:"card",class:"char-tabs"})}const p=s(a,[["render",r]]);export{p as default};
