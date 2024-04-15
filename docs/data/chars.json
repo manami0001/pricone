@@ -821,7 +821,7 @@
       "getMethod": "event"
     },
     { "name": "レム", "element": "水", "attack": "b", "getMethod": "limited" },
-    { "name": "ラム", "element": "風", "attack": "m", "getMethod": "limited" },
+    { "name": "ラム", "element": "風", "attack": "m", "getMethod": "event" },
     { "name": "リン", "element": "風", "attack": "b", "getMethod": "low" },
     {
       "name": "シズリノ",
