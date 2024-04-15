@@ -663,6 +663,12 @@
       "getMethod": "limited"
     },
     {
+      "name": "正月イリヤ",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "limited"
+    },
+    {
       "name": "イリヤ",
       "element": "闇",
       "attack": "m",
