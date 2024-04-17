@@ -1,1338 +1,1817 @@
 {
   "chars": [
-    { "name": "リマ", "element": "風", "attack": "b", "getMethod": "low" },
-    { "name": "ミヤコ", "element": "闇", "attack": "b", "getMethod": "low" },
-    { "name": "クウカ", "element": "闇", "attack": "b", "getMethod": "low" },
+    {
+      "name": "リマ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 12
+    },
+    {
+      "name": "ミヤコ",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 27
+    },
+    {
+      "name": "クウカ",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 17
+    },
     {
       "name": "水クウカ",
       "element": "水",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 236
     },
     {
       "name": "ジュン",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 42
     },
     {
       "name": "正月ムイミ",
       "element": "火",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 136
     },
     {
       "name": "オーエドクウカ",
       "element": "火",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 78
     },
     {
       "name": "ノワールクウカ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 170
     },
     {
       "name": "クリジュン",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 211
     },
-    { "name": "カオリ", "element": "火", "attack": "b", "getMethod": "low" },
+    {
+      "name": "カオリ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 16
+    },
     {
       "name": "クリサレン",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 134
     },
     {
       "name": "ハロツムギ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 127
     },
     {
       "name": "正月レイ",
       "element": "水",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 68
     },
-    { "name": "リン2", "element": "水", "attack": "b", "getMethod": "limited" },
+    {
+      "name": "リン2",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 108
+    },
     {
       "name": "ペコリーヌ",
       "element": "光",
       "attack": "b",
-      "getMethod": "low"
+      "getMethod": "low",
+      "num": 2
     },
     {
       "name": "プリペコリーヌ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 105
     },
     {
       "name": "ハロカオリ",
       "element": "火",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 164
     },
     {
       "name": "サラルカ",
       "element": "水",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 242
     },
     {
       "name": "ルカ",
       "element": "水",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 62
     },
     {
       "name": "水ユカリ",
       "element": "水",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 234
     },
     {
       "name": "正月コッコロ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 102
     },
     {
       "name": "ノゾミ",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 35
     },
     {
       "name": "ムイミ",
       "element": "火",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 72
     },
     {
       "name": "水シズル",
       "element": "水",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 156
     },
     {
       "name": "オバペコリーヌ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 178
     },
     {
       "name": "マコト",
       "element": "闇",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 37
     },
     {
       "name": "デレマコト",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 145
     },
     {
       "name": "カヤ",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 96
     },
     {
       "name": "タイムカヤ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 150
     },
     {
       "name": "リベカヤ",
       "element": "光",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 217
     },
     {
       "name": "正月ヒヨリ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 69
     },
     {
       "name": "デレリマ",
       "element": "光",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 144
     },
     {
       "name": "オーエドニノン",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 79
     },
     {
       "name": "アキノ",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 29
     },
     {
       "name": "水マコト",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 86
     },
     {
       "name": "水ジュン",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 123
     },
     {
       "name": "ワイマツリ",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 207
     },
     {
       "name": "聖クロエ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 148
     },
-    { "name": "マツリ", "element": "火", "attack": "b", "getMethod": "low" },
+    {
+      "name": "マツリ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 57
+    },
     {
       "name": "クロエ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 91
     },
     {
       "name": "ハロマツリ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 128
     },
     {
       "name": "バレエリコ",
       "element": "火",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 71
     },
     {
       "name": "ウィンタークロエ",
       "element": "水",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 256
     },
     {
       "name": "クリアキノ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 132
     },
     {
       "name": "ノワールシズル",
       "element": "闇",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 222
     },
     {
       "name": "クリアヤネ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 66
     },
     {
       "name": "正月イノリ",
       "element": "火",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 248
     },
     {
       "name": "水ルカ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 119
     },
     {
       "name": "正月ルカ",
       "element": "水",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 174
     },
     {
       "name": "アスレイ",
       "element": "風",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 252
     },
-    { "name": "ツムギ", "element": "風", "attack": "b", "getMethod": "low" },
+    {
+      "name": "ツムギ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 49
+    },
     {
       "name": "イノリ",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 116
     },
     {
       "name": "プリヒヨリ",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 135
     },
-    { "name": "ヒヨリ", "element": "火", "attack": "b", "getMethod": "low" },
-    { "name": "ミソギ", "element": "火", "attack": "b", "getMethod": "low" },
-    { "name": "アヤネ", "element": "風", "attack": "b", "getMethod": "low" },
+    {
+      "name": "ヒヨリ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 4
+    },
+    {
+      "name": "ミソギ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 10
+    },
+    {
+      "name": "アヤネ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 45
+    },
     {
       "name": "ハロミソギ",
       "element": "火",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 93
     },
-    { "name": "タマキ", "element": "闇", "attack": "b", "getMethod": "low" },
+    {
+      "name": "タマキ",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 21
+    },
     {
       "name": "作業着タマキ",
       "element": "火",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 152
     },
     {
       "name": "トモ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 56
     },
     {
       "name": "リベムイミ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 218
     },
     {
       "name": "チエル",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 110
     },
     {
       "name": "聖チエル",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 147
     },
     {
       "name": "水アキノ",
       "element": "火",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 232
     },
     {
       "name": "水タマキ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 55
     },
     {
       "name": "アスヒヨリ",
       "element": "火",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 251
     },
-    { "name": "エリコ", "element": "闇", "attack": "b", "getMethod": "low" },
+    {
+      "name": "エリコ",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 15
+    },
     {
       "name": "水ペコリーヌ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 50
     },
     {
       "name": "水ミソギ",
       "element": "火",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 197
     },
     {
       "name": "ワイクリス",
       "element": "風",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 206
     },
-    { "name": "クルミ", "element": "風", "attack": "b", "getMethod": "low" },
+    {
+      "name": "クルミ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 7
+    },
     {
       "name": "ジータ",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 41
     },
     {
       "name": "正月ペコリーヌ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 137
     },
-    { "name": "レイ", "element": "風", "attack": "b", "getMethod": "low" },
+    {
+      "name": "レイ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 5
+    },
     {
       "name": "水レイ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 193
     },
     {
       "name": "タイムイノリ",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 149
     },
     {
       "name": "水シノブ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 237
     },
     {
       "name": "クリイリヤ",
       "element": "水",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 99
     },
     {
       "name": "水アンナ",
       "element": "水",
       "attack": "m",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 118
     },
     {
       "name": "探検アヤネ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 201
     },
     {
       "name": "オバラビリスタ",
       "element": "光",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 179
     },
     {
       "name": "ハロトモ",
       "element": "火",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 203
     },
     {
       "name": "水ヒヨリ",
       "element": "水",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 194
     },
     {
       "name": "クリクリス",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 97
     },
     {
       "name": "ビカラ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 228
     },
     {
       "name": "コママコト",
       "element": "闇",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 257
     },
     {
       "name": "作業着ミフユ",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 153
     },
     {
       "name": "正月シェフィ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 176
     },
     {
       "name": "シズル",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 33
     },
     {
       "name": "クリス",
       "element": "火",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 61
     },
     {
       "name": "怪盗イノリ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 186
     },
     {
       "name": "パイアンナ",
       "element": "水",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 189
     },
     {
       "name": "コマエリコ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 258
     },
     {
       "name": "クリクルミ",
       "element": "水",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 65
     },
     {
       "name": "クリミヤコ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 171
     },
     {
       "name": "サラサレン",
       "element": "火",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 241
     },
-    { "name": "ネア", "element": "水", "attack": "b", "getMethod": "limited" },
+    {
+      "name": "ネア",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 202
+    },
     {
       "name": "水ツムギ",
       "element": "水",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 158
     },
-    { "name": "ミミ", "element": "風", "attack": "b", "getMethod": "low" },
+    {
+      "name": "ミミ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 26
+    },
     {
       "name": "水ミミ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 196
     },
-    { "name": "シノブ", "element": "闇", "attack": "b", "getMethod": "low" },
+    {
+      "name": "シノブ",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 19
+    },
     {
       "name": "ハロミミ",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 94
     },
     {
       "name": "シェフィ",
       "element": "水",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 141
     },
     {
       "name": "ウヅキ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 106
     },
     {
       "name": "クリペコリーヌ",
       "element": "水",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 245
     },
     {
       "name": "クローチェ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 231
     },
     {
       "name": "ハロレイ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 129
     },
     {
       "name": "プリレイ",
       "element": "風",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 154
     },
     {
       "name": "パイシノブ",
       "element": "水",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 188
     },
     {
       "name": "バレシズル",
       "element": "火",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 70
     },
     {
       "name": "レンマヒル",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 112
     },
-    { "name": "マヒル", "element": "風", "attack": "b", "getMethod": "low" },
+    {
+      "name": "マヒル",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 23
+    },
     {
       "name": "クリマヒル",
       "element": "風",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 172
     },
     {
       "name": "マジトモ",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 131
     },
-    { "name": "ユカリ", "element": "光", "attack": "b", "getMethod": "low" },
+    {
+      "name": "ユカリ",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 11
+    },
     {
       "name": "クリア",
       "element": "闇",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 243
     },
     {
       "name": "水エリコ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 155
     },
     {
       "name": "クリユカリ",
       "element": "光",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 133
     },
     {
       "name": "モニカ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 39
     },
     {
       "name": "ニノン",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 34
     },
     {
       "name": "水ノゾミ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 157
     },
     {
       "name": "クリノゾミ",
       "element": "水",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 98
     },
     {
       "name": "キャンプユカリ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 190
     },
-    { "name": "ミフユ", "element": "水", "attack": "b", "getMethod": "low" },
+    {
+      "name": "ミフユ",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 25
+    },
     {
       "name": "アキサレ",
       "element": "火",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 187
     },
     {
       "name": "レンリン",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 111
     },
     {
       "name": "リベノゾミ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 216
     },
     {
       "name": "正月イリヤ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 177
     },
     {
       "name": "イリヤ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 48
     },
     {
       "name": "水カオリ",
       "element": "水",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 87
     },
     {
       "name": "サレン",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 32
     },
     {
       "name": "クリヨリ",
       "element": "風",
       "attack": "m",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 210
     },
     {
       "name": "クリアカリ",
       "element": "風",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 209
     },
     {
       "name": "アンナ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 30
     },
     {
       "name": "ハロシノブ",
       "element": "火",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 58
     },
     {
       "name": "マジータ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 226
     },
     {
       "name": "儀ユキ",
       "element": "風",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 230
     },
     {
       "name": "カフェモニカ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 221
     },
     {
       "name": "リリ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 225
     },
     {
       "name": "リトリリ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 175
     },
     {
       "name": "水ナナカ",
       "element": "水",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 120
     },
     {
       "name": "プレシア",
       "element": "闇",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 244
     },
     {
       "name": "水ミフユ",
       "element": "水",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 54
     },
-    { "name": "コッコロ", "element": "風", "attack": "b", "getMethod": "low" },
+    {
+      "name": "コッコロ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 1
+    },
     {
       "name": "ワンダーアユミ",
       "element": "風",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 114
     },
-    { "name": "アユミ", "element": "風", "attack": "b", "getMethod": "low" },
+    {
+      "name": "アユミ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 74
+    },
     {
       "name": "ハロニノン",
       "element": "火",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 165
     },
     {
       "name": "水チカ",
       "element": "水",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 159
     },
     {
       "name": "グレア",
       "element": "火",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 77
     },
     {
       "name": "作業着アオイ",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 151
     },
     {
       "name": "マジモニカ",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 130
     },
     {
       "name": "天アカリ",
       "element": "光",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 125
     },
     {
       "name": "天ヨリ",
       "element": "光",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 126
     },
     {
       "name": "儀コッコロ",
       "element": "風",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 139
     },
     {
       "name": "水コッコロ",
       "element": "水",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 51
     },
-    { "name": "レム", "element": "水", "attack": "b", "getMethod": "limited" },
-    { "name": "ラム", "element": "風", "attack": "m", "getMethod": "event" },
-    { "name": "リン", "element": "風", "attack": "b", "getMethod": "low" },
+    {
+      "name": "レム",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 80
+    },
+    {
+      "name": "ラム",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 81
+    },
+    {
+      "name": "リン",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 43
+    },
     {
       "name": "シズリノ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 247
     },
     {
       "name": "オーエドミツキ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 161
     },
     {
       "name": "水ユイ",
       "element": "水",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 195
     },
     {
       "name": "プリコッコロ",
       "element": "風",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 113
     },
     {
       "name": "ラビリスタ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 124
     },
     {
       "name": "正月ネネカ",
       "element": "風",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 138
     },
     {
       "name": "ヴァンピィ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 192
     },
-    { "name": "ミツキ", "element": "闇", "attack": "b", "getMethod": "low" },
+    {
+      "name": "ミツキ",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 24
+    },
     {
       "name": "水ハツネ",
       "element": "水",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 121
     },
     {
       "name": "儀イリヤ",
       "element": "風",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 229
     },
-    { "name": "アカリ", "element": "闇", "attack": "m", "getMethod": "low" },
-    { "name": "ヨリ", "element": "闇", "attack": "m", "getMethod": "low" },
+    {
+      "name": "アカリ",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "low",
+      "num": 14
+    },
+    {
+      "name": "ヨリ",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "low",
+      "num": 13
+    },
     {
       "name": "アングレア",
       "element": "火",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 212
     },
-    { "name": "儀ユイ", "element": "風", "attack": "m", "getMethod": "event" },
+    {
+      "name": "儀ユイ",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "event",
+      "num": 140
+    },
     {
       "name": "アルカリン",
       "element": "闇",
       "attack": "m",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 227
     },
     {
       "name": "ハロリン",
       "element": "闇",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 204
     },
     {
       "name": "水サレン",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 85
     },
     {
       "name": "オバキャル",
       "element": "光",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 181
     },
     {
       "name": "怪盗アユミ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 185
     },
     {
       "name": "ハロミヤコ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 59
     },
     {
       "name": "正月ミツキ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 213
     },
     {
       "name": "アリサ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 44
     },
     {
       "name": "アン",
       "element": "光",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 75
     },
-    { "name": "ルゥ", "element": "闇", "attack": "m", "getMethod": "event" },
+    {
+      "name": "ルゥ",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "event",
+      "num": 76
+    },
     {
       "name": "デレマホ",
       "element": "光",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 146
     },
     {
       "name": "水ネネカ",
       "element": "水",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 233
     },
     {
       "name": "カイザーインサイト",
       "element": "闇",
       "attack": "b",
-      "getMethod": "other"
+      "getMethod": "other",
+      "num": 208
     },
     {
       "name": "ネネカ",
       "element": "光",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 89
     },
     {
       "name": "編アオイ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 90
     },
     {
       "name": "水ランファ",
       "element": "水",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 235
     },
     {
       "name": "正月キャル",
       "element": "闇",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 100
     },
-    { "name": "ミオ", "element": "火", "attack": "m", "getMethod": "event" },
+    {
+      "name": "ミオ",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "event",
+      "num": 107
+    },
     {
       "name": "水ミサト",
       "element": "水",
       "attack": "m",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 122
     },
     {
       "name": "正月ミサト",
       "element": "光",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 214
     },
     {
       "name": "リノ",
       "element": "火",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 40
     },
-    { "name": "スズナ", "element": "光", "attack": "b", "getMethod": "low" },
+    {
+      "name": "スズナ",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 20
+    },
     {
       "name": "水スズナ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 83
     },
     {
       "name": "正月ホマレ",
       "element": "火",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 215
     },
     {
       "name": "ウィンターユニ",
       "element": "水",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 255
     },
-    { "name": "シオリ", "element": "風", "attack": "b", "getMethod": "low" },
+    {
+      "name": "シオリ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 18
+    },
     {
       "name": "レンシオリ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 224
     },
     {
       "name": "マジシオリ",
       "element": "光",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 104
     },
     {
       "name": "ノワールイオ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 169
     },
     {
       "name": "イオ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 31
     },
-    { "name": "水イオ", "element": "水", "attack": "m", "getMethod": "event" },
-    { "name": "スズメ", "element": "風", "attack": "m", "getMethod": "low" },
+    {
+      "name": "水イオ",
+      "element": "水",
+      "attack": "m",
+      "getMethod": "event",
+      "num": 84
+    },
+    {
+      "name": "スズメ",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "low",
+      "num": 8
+    },
     {
       "name": "正月スズメ",
       "element": "光",
       "attack": "m",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 101
     },
     {
       "name": "クリクレジッタ",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 246
     },
     {
       "name": "エミリア",
       "element": "火",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 82
     },
     {
       "name": "ホマレ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 168
     },
     {
       "name": "カスミ",
       "element": "光",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 73
     },
     {
       "name": "マジカスミ",
       "element": "光",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 103
     },
     {
       "name": "ワンダーリノ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 115
     },
     {
       "name": "ミソラ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 219
     },
     {
       "name": "ステクルミ",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 183
     },
     {
       "name": "キャンプアオイ",
       "element": "風",
       "attack": "b",
-      "getMethod": "event"
+      "getMethod": "event",
+      "num": 191
     },
     {
       "name": "ハツシオ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 160
     },
-    { "name": "ミサト", "element": "風", "attack": "m", "getMethod": "low" },
+    {
+      "name": "ミサト",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "low",
+      "num": 47
+    },
     {
       "name": "水カスミ",
       "element": "水",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 142
     },
     {
       "name": "正月カスミ",
       "element": "火",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 250
     },
-    { "name": "ナナカ", "element": "闇", "attack": "m", "getMethod": "low" },
+    {
+      "name": "ナナカ",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "low",
+      "num": 63
+    },
     {
       "name": "ライラエル",
       "element": "光",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 238
     },
     {
       "name": "ハロナナカ",
       "element": "火",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 205
     },
     {
       "name": "ステミサキ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 184
     },
     {
       "name": "正月ユイ",
       "element": "光",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 67
     },
     {
       "name": "アメス",
       "element": "光",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 199
     },
     {
       "name": "プリキャル",
       "element": "闇",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 143
     },
-    { "name": "キャル", "element": "闇", "attack": "m", "getMethod": "low" },
+    {
+      "name": "キャル",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "low",
+      "num": 0
+    },
     {
       "name": "編スズナ",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 240
     },
     {
       "name": "クレジッタ",
       "element": "光",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 163
     },
     {
       "name": "レンコッコロ",
       "element": "風",
       "attack": "b",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 223
     },
     {
       "name": "ハツネ",
       "element": "光",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 36
     },
-    { "name": "ミサキ", "element": "闇", "attack": "m", "getMethod": "low" },
+    {
+      "name": "ミサキ",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "low",
+      "num": 9
+    },
     {
       "name": "ハロスズナ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 166
     },
     {
       "name": "クリリノ",
       "element": "光",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 173
     },
     {
       "name": "ルナ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 95
     },
     {
       "name": "プリユイ",
       "element": "光",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 117
     },
     {
       "name": "クリチカ",
       "element": "水",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 64
     },
     {
       "name": "アスユイ",
       "element": "光",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 253
     },
     {
       "name": "水スズメ",
       "element": "水",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 52
     },
     {
       "name": "水キャル",
       "element": "水",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 53
     },
     {
       "name": "ランファ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 182
     },
-    { "name": "アオイ", "element": "風", "attack": "b", "getMethod": "low" },
-    { "name": "カリン", "element": "風", "attack": "m", "getMethod": "other" },
-    { "name": "チカ", "element": "風", "attack": "m", "getMethod": "low" },
+    {
+      "name": "アオイ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "low",
+      "num": 6
+    },
+    {
+      "name": "カリン",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "other",
+      "num": 167
+    },
+    {
+      "name": "チカ",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "low",
+      "num": 22
+    },
     {
       "name": "水マホ",
       "element": "火",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 88
     },
     {
       "name": "探検マホ",
       "element": "風",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 200
     },
     {
       "name": "マホ",
       "element": "火",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 38
     },
     {
       "name": "オーエドユキ",
       "element": "光",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 162
     },
-    { "name": "ユイ", "element": "光", "attack": "m", "getMethod": "low" },
+    {
+      "name": "ユイ",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "low",
+      "num": 3
+    },
     {
       "name": "エリス",
       "element": "闇",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 254
     },
     {
       "name": "正月ハツネ",
       "element": "光",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 249
     },
     {
       "name": "編キャル",
       "element": "火",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 239
     },
-    { "name": "ユキ", "element": "闇", "attack": "m", "getMethod": "low" },
+    {
+      "name": "ユキ",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "low",
+      "num": 28
+    },
     {
       "name": "ユニ",
       "element": "光",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 109
     },
     {
       "name": "聖ユニ",
       "element": "風",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 180
     },
     {
       "name": "キョウカ",
       "element": "水",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 46
     },
     {
       "name": "水キョウカ",
       "element": "水",
       "attack": "m",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 198
     },
     {
       "name": "ハロミサキ",
       "element": "闇",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 60
     },
     {
       "name": "ハロキョウカ",
       "element": "火",
       "attack": "m",
-      "getMethod": "limited"
+      "getMethod": "limited",
+      "num": 92
     },
     {
       "name": "カフェタマキ",
       "element": "風",
       "attack": "b",
-      "getMethod": "permanent"
+      "getMethod": "permanent",
+      "num": 220
     }
   ]
 }
