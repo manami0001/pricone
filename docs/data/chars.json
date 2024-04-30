@@ -1100,6 +1100,13 @@
       "num": 81
     },
     {
+      "name": "アネモネ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 260
+    },
+    {
       "name": "リン",
       "element": "風",
       "attack": "b",
