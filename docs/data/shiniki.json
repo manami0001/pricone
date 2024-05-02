@@ -1,0 +1,500 @@
+{
+  "update_on": "2024-05-03",
+  "teams": [
+    {
+      "element": "火",
+      "stage": 1,
+      "chars": [
+        { "name": "ジュン", "star": 5 },
+        { "name": "プリヒヨリ", "star": 5 },
+        { "name": "作業着タマキ", "star": 5 },
+        { "name": "クリス", "star": 5 },
+        { "name": "バレシズル", "star": 5 }
+      ]
+    },
+    {
+      "element": "火",
+      "stage": 1,
+      "chars": [
+        { "name": "ジュン", "star": 5 },
+        { "name": "作業着タマキ", "star": 5 },
+        { "name": "クリス", "star": 5 },
+        { "name": "バレシズル", "star": 5 },
+        { "name": "作業着アオイ", "star": 5 }
+      ]
+    },
+    {
+      "element": "火",
+      "stage": 1,
+      "chars": [
+        { "name": "ジュン", "star": 5 },
+        { "name": "プリヒヨリ", "star": 5 },
+        { "name": "アスヒヨリ", "star": 5 },
+        { "name": "クリス", "star": 5 },
+        { "name": "アキサレ", "star": 5 }
+      ]
+    },
+    {
+      "element": "火",
+      "stage": 1,
+      "chars": [
+        { "name": "ジュン", "star": 5 },
+        { "name": "プリヒヨリ", "star": 5 },
+        { "name": "作業着タマキ", "star": 5 },
+        { "name": "アスヒヨリ", "star": 5 },
+        { "name": "バレシズル", "star": 5 }
+      ]
+    },
+    {
+      "element": "火",
+      "stage": 2,
+      "chars": [
+        { "name": "ジュン", "star": 5 },
+        { "name": "プリヒヨリ", "star": 5 },
+        { "name": "アスヒヨリ", "star": 5 },
+        { "name": "クリス", "star": 5 },
+        { "name": "サラサレン", "star": 5 }
+      ]
+    },
+    {
+      "element": "火",
+      "stage": 3,
+      "chars": [
+        { "name": "クリス", "star": 5 },
+        { "name": "サラサレン", "star": 5 },
+        { "name": "バレシズル", "star": 5 },
+        { "name": "ハロニノン", "star": 5 },
+        { "name": "作業着アオイ", "star": 5 }
+      ]
+    },
+    {
+      "element": "火",
+      "stage": 3,
+      "chars": [
+        { "name": "ワイマツリ", "star": 5 },
+        { "name": "クリス", "star": 5 },
+        { "name": "バレシズル", "star": 5 },
+        { "name": "アキサレ", "star": 5 },
+        { "name": "ハロニノン", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
+        { "name": "ルカ", "star": 5 },
+        { "name": "ウィンタークロエ", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "水ヒヨリ", "star": 5 },
+        { "name": "シェフィ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
+        { "name": "ルカ", "star": 5 },
+        { "name": "ウィンタークロエ", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "シェフィ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
+        { "name": "ルカ", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "水ヒヨリ", "star": 5 },
+        { "name": "シェフィ", "star": 5 },
+        { "name": "パイシノブ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
+        { "name": "ルカ", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "シェフィ", "star": 5 },
+        { "name": "パイシノブ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
+        { "name": "ルカ", "star": 5 },
+        { "name": "ウィンタークロエ", "star": 5 },
+        { "name": "水レイ", "star": 5 },
+        { "name": "パイシノブ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
+        { "name": "水ネネカ", "star": 5 },
+        { "name": "水ランファ", "star": 5 },
+        { "name": "水カスミ", "star": 5 },
+        { "name": "水キャル", "star": 5 },
+        { "name": "水キョウカ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 2,
+      "chars": [
+        { "name": "水ユイ", "star": 5 },
+        { "name": "水サレン", "star": 5 },
+        { "name": "水ネネカ", "star": 5 },
+        { "name": "水カスミ", "star": 5 },
+        { "name": "水キョウカ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 2,
+      "chars": [
+        { "name": "ルカ", "star": 5 },
+        { "name": "水マコト", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "水チカ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 2,
+      "chars": [
+        { "name": "正月レイ", "star": 5 },
+        { "name": "ルカ", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "水ノゾミ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 2,
+      "chars": [
+        { "name": "水クウカ", "star": 5 },
+        { "name": "ルカ", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "パイシノブ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 3,
+      "chars": [
+        { "name": "水シズル", "star": 5 },
+        { "name": "水ミミ", "star": 5 },
+        { "name": "シェフィ", "star": 5 },
+        { "name": "水コッコロ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 3,
+      "chars": [
+        { "name": "水ミミ", "star": 5 },
+        { "name": "シェフィ", "star": 5 },
+        { "name": "水ノゾミ", "star": 5 },
+        { "name": "水サレン", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 3,
+      "chars": [
+        { "name": "水ペコリーヌ", "star": 5 },
+        { "name": "水ミミ", "star": 5 },
+        { "name": "水サレン", "star": 5 },
+        { "name": "水コッコロ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 3,
+      "chars": [
+        { "name": "水ミミ", "star": 5 },
+        { "name": "水ノゾミ", "star": 5 },
+        { "name": "水コッコロ", "star": 5 },
+        { "name": "水ネネカ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 3,
+      "chars": [
+        { "name": "水シズル", "star": 5 },
+        { "name": "ウィンタークロエ", "star": 5 },
+        { "name": "水ミミ", "star": 5 },
+        { "name": "水コッコロ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 3,
+      "chars": [
+        { "name": "水ペコリーヌ", "star": 5 },
+        { "name": "水ミミ", "star": 5 },
+        { "name": "水ノゾミ", "star": 5 },
+        { "name": "水サレン", "star": 5 },
+        { "name": "水コッコロ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 3,
+      "chars": [
+        { "name": "水ルカ", "star": 5 },
+        { "name": "水ミミ", "star": 5 },
+        { "name": "水ノゾミ", "star": 5 },
+        { "name": "水サレン", "star": 5 },
+        { "name": "水コッコロ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 3,
+      "chars": [
+        { "name": "パイアンナ", "star": 5 },
+        { "name": "水ナナカ", "star": 5 },
+        { "name": "水サレン", "star": 5 },
+        { "name": "水ランファ", "star": 5 },
+        { "name": "水カスミ", "star": 5 }
+      ]
+    },
+    {
+      "element": "風",
+      "stage": 1,
+      "chars": [
+        { "name": "モニカ", "star": 5 },
+        { "name": "プリコッコロ", "star": 5 },
+        { "name": "儀ユイ", "star": 5 },
+        { "name": "シオリ", "star": 5 },
+        { "name": "レンシオリ", "star": 5 }
+      ]
+    },
+    {
+      "element": "風",
+      "stage": 1,
+      "chars": [
+        { "name": "モニカ", "star": 5 },
+        { "name": "リン", "star": 5 },
+        { "name": "プリコッコロ", "star": 5 },
+        { "name": "シオリ", "star": 5 },
+        { "name": "レンシオリ", "star": 5 }
+      ]
+    },
+    {
+      "element": "風",
+      "stage": 1,
+      "chars": [
+        { "name": "リン", "star": 5 },
+        { "name": "プリコッコロ", "star": 5 },
+        { "name": "シオリ", "star": 5 },
+        { "name": "レンシオリ", "star": 5 },
+        { "name": "聖ユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 1,
+      "chars": [
+        { "name": "クリジュン", "star": 5 },
+        { "name": "ジータ", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 },
+        { "name": "デレマホ", "star": 5 },
+        { "name": "アメス", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 1,
+      "chars": [
+        { "name": "クリジュン", "star": 5 },
+        { "name": "リベムイミ", "star": 5 },
+        { "name": "リベノゾミ", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 },
+        { "name": "アメス", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 1,
+      "chars": [
+        { "name": "カスミ", "star": 5 },
+        { "name": "ライラエル", "star": 5 },
+        { "name": "正月ユイ", "star": 5 },
+        { "name": "アメス", "star": 5 },
+        { "name": "アスユイ", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 2,
+      "chars": [
+        { "name": "クリジュン", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 },
+        { "name": "正月ミサト", "star": 5 },
+        { "name": "ハツシオ", "star": 5 },
+        { "name": "クレジッタ", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 2,
+      "chars": [
+        { "name": "シズリノ", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 },
+        { "name": "正月ミサト", "star": 5 },
+        { "name": "ハツシオ", "star": 5 },
+        { "name": "クレジッタ", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 2,
+      "chars": [
+        { "name": "クリジュン", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 },
+        { "name": "デレマホ", "star": 5 },
+        { "name": "ハツシオ", "star": 5 },
+        { "name": "クレジッタ", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 2,
+      "chars": [
+        { "name": "クリジュン", "star": 5 },
+        { "name": "クローチェ", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 },
+        { "name": "アメス", "star": 5 },
+        { "name": "クレジッタ", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 3,
+      "chars": [
+        { "name": "リベムイミ", "star": 5 },
+        { "name": "正月シェフィ", "star": 5 },
+        { "name": "リベノゾミ", "star": 5 },
+        { "name": "マジモニカ", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 3,
+      "chars": [
+        { "name": "リベムイミ", "star": 5 },
+        { "name": "リベノゾミ", "star": 5 },
+        { "name": "マジモニカ", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 },
+        { "name": "ステクルミ", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 3,
+      "chars": [
+        { "name": "リベムイミ", "star": 5 },
+        { "name": "リベノゾミ", "star": 5 },
+        { "name": "シズリノ", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 },
+        { "name": "アメス", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 3,
+      "chars": [
+        { "name": "正月ヒヨリ", "star": 5 },
+        { "name": "リベムイミ", "star": 5 },
+        { "name": "リベノゾミ", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 },
+        { "name": "アメス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 1,
+      "chars": [
+        { "name": "ノワールクウカ", "star": 5 },
+        { "name": "ミソラ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "ランファ", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 1,
+      "chars": [
+        { "name": "水シノブ", "star": 5 },
+        { "name": "クリア", "star": 5 },
+        { "name": "リリ", "star": 5 },
+        { "name": "プレシア", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 2,
+      "chars": [
+        { "name": "ノワールクウカ", "star": 5 },
+        { "name": "マジータ", "star": 5 },
+        { "name": "ホマレ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 2,
+      "chars": [
+        { "name": "ノワールクウカ", "star": 5 },
+        { "name": "マジータ", "star": 5 },
+        { "name": "ミソラ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 3,
+      "chars": [
+        { "name": "ノワールクウカ", "star": 5 },
+        { "name": "イリヤ", "star": 5 },
+        { "name": "マジータ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 3,
+      "chars": [
+        { "name": "クウカ", "star": 5 },
+        { "name": "イリヤ", "star": 5 },
+        { "name": "マジータ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    }
+  ]
+}
