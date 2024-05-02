@@ -377,6 +377,17 @@
     },
     {
       "element": "風",
+      "stage": 2,
+      "chars": [
+        { "name": "シオリ", "star": 5 },
+        { "name": "レンシオリ", "star": 5 },
+        { "name": "レンコッコロ", "star": 5 },
+        { "name": "カリン", "star": 5 },
+        { "name": "聖ユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "風",
       "stage": 3,
       "chars": [
         { "name": "プリコッコロ", "star": 5 },
