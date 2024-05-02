@@ -445,9 +445,53 @@
       "element": "闇",
       "stage": 1,
       "chars": [
+        { "name": "ノワールクウカ", "star": 5 },
+        { "name": "ホマレ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "ランファ", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 1,
+      "chars": [
         { "name": "水シノブ", "star": 5 },
         { "name": "クリア", "star": 5 },
         { "name": "リリ", "star": 5 },
+        { "name": "プレシア", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 1,
+      "chars": [
+        { "name": "水シノブ", "star": 5 },
+        { "name": "コママコト", "star": 5 },
+        { "name": "コマエリコ", "star": 5 },
+        { "name": "プレシア", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 1,
+      "chars": [
+        { "name": "水シノブ", "star": 5 },
+        { "name": "コママコト", "star": 5 },
+        { "name": "コマエリコ", "star": 5 },
+        { "name": "クリア", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 1,
+      "chars": [
+        { "name": "水シノブ", "star": 5 },
+        { "name": "怪盗イノリ", "star": 5 },
+        { "name": "クリア", "star": 5 },
         { "name": "プレシア", "star": 5 },
         { "name": "エリス", "star": 5 }
       ]
@@ -467,9 +511,31 @@
       "element": "闇",
       "stage": 2,
       "chars": [
+        { "name": "クウカ", "star": 5 },
+        { "name": "マジータ", "star": 5 },
+        { "name": "ホマレ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 2,
+      "chars": [
         { "name": "ノワールクウカ", "star": 5 },
         { "name": "マジータ", "star": 5 },
         { "name": "ミソラ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 2,
+      "chars": [
+        { "name": "ノワールクウカ", "star": 5 },
+        { "name": "マジータ", "star": 5 },
+        { "name": "ヴァンピィ", "star": 5 },
         { "name": "プリキャル", "star": 5 },
         { "name": "エリス", "star": 5 }
       ]
@@ -481,7 +547,7 @@
         { "name": "ノワールクウカ", "star": 5 },
         { "name": "イリヤ", "star": 5 },
         { "name": "マジータ", "star": 5 },
-        { "name": "プリキャル", "star": 5 },
+        { "name": "ホマレ", "star": 5 },
         { "name": "エリス", "star": 5 }
       ]
     },
@@ -492,7 +558,29 @@
         { "name": "クウカ", "star": 5 },
         { "name": "イリヤ", "star": 5 },
         { "name": "マジータ", "star": 5 },
-        { "name": "プリキャル", "star": 5 },
+        { "name": "ホマレ", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 3,
+      "chars": [
+        { "name": "クウカ", "star": 5 },
+        { "name": "マジータ", "star": 5 },
+        { "name": "ホマレ", "star": 5 },
+        { "name": "ランファ", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 3,
+      "chars": [
+        { "name": "クウカ", "star": 5 },
+        { "name": "イリヤ", "star": 5 },
+        { "name": "アンナ", "star": 5 },
+        { "name": "マジータ", "star": 5 },
         { "name": "エリス", "star": 5 }
       ]
     }
