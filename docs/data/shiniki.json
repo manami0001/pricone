@@ -127,10 +127,54 @@
       "stage": 1,
       "chars": [
         { "name": "ルカ", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "シェフィ", "star": 5 },
+        { "name": "水エリコ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
+        { "name": "ルカ", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "パイシノブ", "star": 5 },
+        { "name": "水コッコロ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
+        { "name": "サラルカ", "star": 5 },
+        { "name": "水マコト", "star": 5 },
+        { "name": "クリアヤネ", "star": 5 },
+        { "name": "シェフィ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
+        { "name": "ルカ", "star": 5 },
         { "name": "ウィンタークロエ", "star": 5 },
         { "name": "水レイ", "star": 5 },
         { "name": "パイシノブ", "star": 5 },
         { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
+        { "name": "ルカ", "star": 5 },
+        { "name": "ウィンタークロエ", "star": 5 },
+        { "name": "水レイ", "star": 5 },
+        { "name": "水ヒヨリ", "star": 5 },
+        { "name": "パイシノブ", "star": 5 }
       ]
     },
     {
