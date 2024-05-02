@@ -310,6 +310,61 @@
       ]
     },
     {
+      "element": "風",
+      "stage": 2,
+      "chars": [
+        { "name": "プリコッコロ", "star": 5 },
+        { "name": "シオリ", "star": 5 },
+        { "name": "レンシオリ", "star": 5 },
+        { "name": "カリン", "star": 5 },
+        { "name": "聖ユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "風",
+      "stage": 2,
+      "chars": [
+        { "name": "キャンプユカリ", "star": 5 },
+        { "name": "プリコッコロ", "star": 5 },
+        { "name": "シオリ", "star": 5 },
+        { "name": "スズメ", "star": 5 },
+        { "name": "聖ユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "風",
+      "stage": 3,
+      "chars": [
+        { "name": "プリコッコロ", "star": 5 },
+        { "name": "シオリ", "star": 5 },
+        { "name": "レンコッコロ", "star": 5 },
+        { "name": "エリス", "star": 5 },
+        { "name": "聖ユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "風",
+      "stage": 3,
+      "chars": [
+        { "name": "プリコッコロ", "star": 5 },
+        { "name": "シオリ", "star": 5 },
+        { "name": "レンコッコロ", "star": 5 },
+        { "name": "カリン", "star": 5 },
+        { "name": "聖ユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "風",
+      "stage": 3,
+      "chars": [
+        { "name": "クリヨリ", "star": 5 },
+        { "name": "儀ユキ", "star": 5 },
+        { "name": "プリコッコロ", "star": 5 },
+        { "name": "正月ネネカ", "star": 5 },
+        { "name": "カリン", "star": 5 }
+      ]
+    },
+    {
       "element": "光",
       "stage": 1,
       "chars": [
