@@ -181,6 +181,17 @@
       "element": "水",
       "stage": 1,
       "chars": [
+        { "name": "水タマキ", "star": 5 },
+        { "name": "水ヒヨリ", "star": 5 },
+        { "name": "クリミヤコ", "star": 5 },
+        { "name": "パイシノブ", "star": 5 },
+        { "name": "水エリコ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 1,
+      "chars": [
         { "name": "水ネネカ", "star": 5 },
         { "name": "水ランファ", "star": 5 },
         { "name": "水カスミ", "star": 5 },
