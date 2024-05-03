@@ -1163,6 +1163,13 @@
       "num": 192
     },
     {
+      "name": "スプリングキョウカ",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 261
+    },
+    {
       "name": "ミツキ",
       "element": "闇",
       "attack": "b",
