@@ -1156,18 +1156,18 @@
       "num": 138
     },
     {
-      "name": "ヴァンピィ",
-      "element": "闇",
-      "attack": "m",
-      "getMethod": "permanent",
-      "num": 192
-    },
-    {
       "name": "スプリングキョウカ",
       "element": "風",
       "attack": "m",
       "getMethod": "limited",
       "num": 261
+    },
+    {
+      "name": "ヴァンピィ",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "permanent",
+      "num": 192
     },
     {
       "name": "ミツキ",
