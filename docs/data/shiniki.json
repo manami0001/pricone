@@ -610,6 +610,17 @@
       "element": "闇",
       "stage": 1,
       "chars": [
+        { "name": "マコト", "star": 5 },
+        { "name": "水シノブ", "star": 5 },
+        { "name": "コママコト", "star": 5 },
+        { "name": "コマエリコ", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 1,
+      "chars": [
         { "name": "水シノブ", "star": 5 },
         { "name": "怪盗イノリ", "star": 5 },
         { "name": "クリア", "star": 5 },
