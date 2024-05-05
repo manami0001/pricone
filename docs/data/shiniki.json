@@ -225,6 +225,17 @@
       "element": "水",
       "stage": 2,
       "chars": [
+        { "name": "ルカ", "star": 5 },
+        { "name": "水レイ", "star": 5 },
+        { "name": "パイシノブ", "star": 5 },
+        { "name": "水チカ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 2,
+      "chars": [
         { "name": "正月レイ", "star": 5 },
         { "name": "ルカ", "star": 5 },
         { "name": "クリアヤネ", "star": 5 },
@@ -505,17 +516,6 @@
         { "name": "ラビリスタ", "star": 5 },
         { "name": "アメス", "star": 5 },
         { "name": "クレジッタ", "star": 5 }
-      ]
-    },
-    {
-      "element": "光",
-      "stage": 3,
-      "chars": [
-        { "name": "リベムイミ", "star": 5 },
-        { "name": "オバラビリスタ", "star": 5 },
-        { "name": "ラビリスタ", "star": 5 },
-        { "name": "デレマホ", "star": 5 },
-        { "name": "アメス", "star": 5 }
       ]
     },
     {
