@@ -247,6 +247,17 @@
       "element": "水",
       "stage": 2,
       "chars": [
+        { "name": "正月レイ", "star": 5 },
+        { "name": "ルカ", "star": 5 },
+        { "name": "水着レイ", "star": 5 },
+        { "name": "水ノゾミ", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 2,
+      "chars": [
         { "name": "水クウカ", "star": 5 },
         { "name": "ルカ", "star": 5 },
         { "name": "クリアヤネ", "star": 5 },
