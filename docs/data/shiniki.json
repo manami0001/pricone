@@ -291,6 +291,17 @@
       "element": "水",
       "stage": 3,
       "chars": [
+        { "name": "水ミミ", "star": 5 },
+        { "name": "シェフィ", "star": 5 },
+        { "name": "水コッコロ", "star": 5 },
+        { "name": "水サレン", "star": 5 },
+        { "name": "ウィンターユニ", "star": 5 }
+      ]
+    },
+    {
+      "element": "水",
+      "stage": 3,
+      "chars": [
         { "name": "水ペコリーヌ", "star": 5 },
         { "name": "水ミミ", "star": 5 },
         { "name": "水サレン", "star": 5 },
