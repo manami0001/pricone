@@ -556,6 +556,17 @@
       "stage": 3,
       "chars": [
         { "name": "リベムイミ", "star": 5 },
+        { "name": "オバラビリスタ", "star": 5 },
+        { "name": "ラビリスタ", "star": 5 },
+        { "name": "デレマホ", "star": 5 },
+        { "name": "アメス", "star": 5 }
+      ]
+    },
+    {
+      "element": "光",
+      "stage": 3,
+      "chars": [
+        { "name": "リベムイミ", "star": 5 },
         { "name": "リベノゾミ", "star": 5 },
         { "name": "シズリノ", "star": 5 },
         { "name": "ラビリスタ", "star": 5 },
