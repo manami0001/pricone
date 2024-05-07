@@ -709,6 +709,28 @@
       "element": "闇",
       "stage": 3,
       "chars": [
+        { "name": "ノワールクウカ", "star": 5 },
+        { "name": "イリヤ", "star": 5 },
+        { "name": "マジータ", "star": 5 },
+        { "name": "ミソラ", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 3,
+      "chars": [
+        { "name": "ノワールクウカ", "star": 5 },
+        { "name": "イリヤ", "star": 5 },
+        { "name": "マジータ", "star": 5 },
+        { "name": "プリキャル", "star": 5 },
+        { "name": "エリス", "star": 5 }
+      ]
+    },
+    {
+      "element": "闇",
+      "stage": 3,
+      "chars": [
         { "name": "クウカ", "star": 5 },
         { "name": "イリヤ", "star": 5 },
         { "name": "マジータ", "star": 5 },
