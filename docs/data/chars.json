@@ -204,18 +204,18 @@
       "num": 150
     },
     {
-      "name": "リベカヤ",
-      "element": "光",
-      "attack": "b",
-      "getMethod": "event",
-      "num": 217
-    },
-    {
       "name": "正月ヒヨリ",
       "element": "光",
       "attack": "b",
       "getMethod": "limited",
       "num": 69
+    },
+    {
+      "name": "リベカヤ",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "event",
+      "num": 217
     },
     {
       "name": "デレリマ",
@@ -309,18 +309,18 @@
       "num": 132
     },
     {
-      "name": "ノワールシズル",
-      "element": "闇",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 222
-    },
-    {
       "name": "クリアヤネ",
       "element": "水",
       "attack": "b",
       "getMethod": "limited",
       "num": 66
+    },
+    {
+      "name": "ノワールシズル",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 222
     },
     {
       "name": "正月イノリ",
@@ -533,18 +533,18 @@
       "num": 149
     },
     {
-      "name": "水シノブ",
-      "element": "闇",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 237
-    },
-    {
       "name": "クリイリヤ",
       "element": "水",
       "attack": "m",
       "getMethod": "permanent",
       "num": 99
+    },
+    {
+      "name": "水シノブ",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 237
     },
     {
       "name": "水アンナ",
@@ -1100,18 +1100,18 @@
       "num": 81
     },
     {
-      "name": "アネモネ",
-      "element": "風",
-      "attack": "b",
-      "getMethod": "limited",
-      "num": 260
-    },
-    {
       "name": "リン",
       "element": "風",
       "attack": "b",
       "getMethod": "low",
       "num": 43
+    },
+    {
+      "name": "アネモネ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 260
     },
     {
       "name": "シズリノ",
@@ -1140,6 +1140,13 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 113
+    },
+    {
+      "name": "スプリングスズメ",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "permanent",
+      "num": 262
     },
     {
       "name": "ラビリスタ",
