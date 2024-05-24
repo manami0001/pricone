@@ -303,7 +303,7 @@
     },
     {
       "name": "クリアキノ",
-      "element": "水",
+      "element": "光",
       "attack": "b",
       "getMethod": "limited",
       "num": 132
