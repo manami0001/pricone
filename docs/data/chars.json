@@ -1373,6 +1373,13 @@
       "num": 40
     },
     {
+      "name": "ドリームマホ",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 263
+    },
+    {
       "name": "スズナ",
       "element": "光",
       "attack": "b",
