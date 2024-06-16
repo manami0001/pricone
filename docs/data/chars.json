@@ -946,6 +946,13 @@
       "num": 58
     },
     {
+      "name": "クルル",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "permanent",
+      "num": 264
+    },
+    {
       "name": "マジータ",
       "element": "闇",
       "attack": "m",
