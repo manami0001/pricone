@@ -183,6 +183,13 @@
       "num": 37
     },
     {
+      "name": "水ネア",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "permanent",
+      "num": 265
+    },
+    {
       "name": "デレマコト",
       "element": "光",
       "attack": "b",
@@ -1098,6 +1105,13 @@
       "attack": "b",
       "getMethod": "limited",
       "num": 80
+    },
+    {
+      "name": "ネフィネラ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 266
     },
     {
       "name": "ラム",
