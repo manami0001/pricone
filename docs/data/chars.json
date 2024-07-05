@@ -1653,6 +1653,13 @@
       "num": 223
     },
     {
+      "name": "水ミソラ",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 267
+    },
+    {
       "name": "ハツネ",
       "element": "光",
       "attack": "m",
