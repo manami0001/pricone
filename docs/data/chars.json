@@ -641,7 +641,7 @@
       "name": "怪盗イノリ",
       "element": "闇",
       "attack": "b",
-      "getMethod": "limited",
+      "getMethod": "permanent",
       "num": 186
     },
     {
