@@ -1611,6 +1611,13 @@
       "num": 184
     },
     {
+      "name": "水アメス",
+      "element": "水",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 269
+    },
+    {
       "name": "正月ユイ",
       "element": "光",
       "attack": "m",
