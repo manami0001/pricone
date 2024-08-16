@@ -1435,6 +1435,13 @@
       "getMethod": "limited",
       "num": 255
     },
+     {
+      "name": "水ホマレ",
+      "element": "水",
+      "attack": "m",
+      "getMethod": "permanent",
+      "num": 271
+    },
     {
       "name": "シオリ",
       "element": "風",
@@ -1882,6 +1889,13 @@
       "attack": "b",
       "getMethod": "permanent",
       "num": 220
+    },
+    {
+      "name": "ネビア",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "other",
+      "num": 270
     }
   ]
 }
