@@ -1519,6 +1519,13 @@
       "getMethod": "limited",
       "num": 82
     },
+     {
+      "name": "水エミリア",
+      "element": "風",
+      "attack": "m",
+      "getMethod": "event",
+      "num": 273
+    },
     {
       "name": "ホマレ",
       "element": "闇",
