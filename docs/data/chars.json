@@ -71,6 +71,13 @@
       "num": 16
     },
     {
+      "name": "水レム",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 274
+    },
+    {
       "name": "クリサレン",
       "element": "光",
       "attack": "b",
