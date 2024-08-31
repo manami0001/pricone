@@ -729,6 +729,13 @@
       "num": 141
     },
     {
+      "name": "プリシェフィ",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 272
+    },
+    {
       "name": "ウヅキ",
       "element": "光",
       "attack": "b",
