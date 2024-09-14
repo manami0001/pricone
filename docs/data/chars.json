@@ -1765,6 +1765,13 @@
       "num": 52
     },
     {
+      "name": "水エキドナ",
+      "element": "闇",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 275
+    },
+    {
       "name": "水キャル",
       "element": "水",
       "attack": "m",
