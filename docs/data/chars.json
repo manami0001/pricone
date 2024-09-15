@@ -1451,7 +1451,7 @@
     },
      {
       "name": "水ホマレ",
-      "element": "水",
+      "element": "闇",
       "attack": "m",
       "getMethod": "permanent",
       "num": 271
