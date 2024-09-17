@@ -1138,7 +1138,7 @@
       "name": "ラム",
       "element": "風",
       "attack": "m",
-      "getMethod": "limited",
+      "getMethod": "event",
       "num": 81
     },
     {
