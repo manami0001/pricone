@@ -1387,6 +1387,13 @@
       "num": 100
     },
     {
+      "name": "リンド",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "permanent",
+      "num": 277
+    },
+    {
       "name": "ミオ",
       "element": "火",
       "attack": "m",
