@@ -1443,6 +1443,13 @@
       "num": 83
     },
     {
+      "name": "ヴルム",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "permanent",
+      "num": 278
+    },
+    {
       "name": "正月ホマレ",
       "element": "火",
       "attack": "m",
