@@ -750,6 +750,13 @@
       "num": 106
     },
     {
+      "name": "フブキ",
+      "element": "火",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 279
+    },
+    {
       "name": "クリペコリーヌ",
       "element": "水",
       "attack": "m",
