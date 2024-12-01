@@ -85,6 +85,13 @@
       "num": 134
     },
     {
+      "name": "ヤマト",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 280
+    },
+    {
       "name": "ハロツムギ",
       "element": "闇",
       "attack": "b",
@@ -1128,6 +1135,13 @@
       "num": 51
     },
     {
+      "name": "ワカナ",
+      "element": "風",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 281
+    },
+    {
       "name": "レム",
       "element": "水",
       "attack": "b",
@@ -1707,6 +1721,13 @@
       "attack": "b",
       "getMethod": "permanent",
       "num": 240
+    },
+    {
+      "name": "クリライラエル",
+      "element": "火",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 282
     },
     {
       "name": "クレジッタ",
