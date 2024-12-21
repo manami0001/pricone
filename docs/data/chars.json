@@ -526,6 +526,13 @@
       "num": 41
     },
     {
+      "name": "ウィンターチエル",
+      "element": "水",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 284
+    },
+    {
       "name": "正月ペコリーヌ",
       "element": "光",
       "attack": "b",
