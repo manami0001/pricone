@@ -694,6 +694,13 @@
       "num": 65
     },
     {
+     "name": "正月モニカ",
+      "element": "光",
+      "attack": "b",
+      "getMethod": "event",
+      "num": 286
+    },
+    {
       "name": "クリミヤコ",
       "element": "水",
       "attack": "b",
@@ -1019,7 +1026,7 @@
       "element": "闇",
       "attack": "b",
       "getMethod": "limited",
-      "num": 287
+      "num": 288
     },
     {
       "name": "儀ユキ",
@@ -1558,14 +1565,14 @@
       "element": "水",
       "attack": "m",
       "getMethod": "limited",
-      "num": 288
+      "num": 289
     },
     {
       "name": "正月サレン",
       "element": "光",
       "attack": "m",
       "getMethod": "limited",
-      "num": 286
+      "num": 287
     },
     {
       "name": "スズメ",
