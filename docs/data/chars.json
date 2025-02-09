@@ -490,6 +490,13 @@
       "getMethod": "low",
       "num": 15
     },
+{
+      "name": "グレイス",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 285
+    },
     {
       "name": "水ペコリーヌ",
       "element": "水",
@@ -1007,6 +1014,12 @@
       "attack": "m",
       "getMethod": "limited",
       "num": 226
+    },{
+      "name": "メドゥーサ",
+      "element": "闇",
+      "attack": "b",
+      "getMethod": "limited",
+      "num": 287
     },
     {
       "name": "儀ユキ",
@@ -1539,6 +1552,20 @@
       "attack": "m",
       "getMethod": "event",
       "num": 84
+    },
+    {
+      "name": "ラビリスタアルファ",
+      "element": "水",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 288
+    },
+    {
+      "name": "正月サレン",
+      "element": "光",
+      "attack": "m",
+      "getMethod": "limited",
+      "num": 286
     },
     {
       "name": "スズメ",
